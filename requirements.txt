@@ -1,0 +1,6 @@
+Flask
+requests
+PyJWT
+cryptography
+pycryptodome
+gunicorn
