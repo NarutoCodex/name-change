@@ -4,3 +4,4 @@ PyJWT
 cryptography
 pycryptodome
 gunicorn
+aiohttp
