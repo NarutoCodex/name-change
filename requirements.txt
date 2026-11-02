@@ -5,3 +5,5 @@ cryptography
 pycryptodome
 gunicorn
 aiohttp
+protobuf-decoder
+protobuf
