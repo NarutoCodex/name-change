@@ -7,3 +7,4 @@ gunicorn
 aiohttp
 protobuf-decoder
 protobuf
+ffproto
